@@ -1,0 +1,16 @@
+@page
+@model VitecMVPrivat.Models.CreateUserModel
+@{
+    ViewData["Title"] = "Error";
+}
+<h1>Opret bruger</h1>
+<input type="CardName" placeholder="Navn"/> <br/>
+<input type="CardNumber" placeholder="Number"/> <br/>
+<p>Udløbs dato</p>
+<input type="Year" placeholder="År"/>
+<input type="Month" placeholder="Måned"/><br/><br/>
+<p>Abonnement  Kort</p>
+<label for="male">4250 4500 9999 9999</label>
+<form method="get" action="/UserHomePage">
+<button type="submit">Opret</button>
+</form>
