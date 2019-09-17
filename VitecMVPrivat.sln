@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{ABFB2129-F8CE-41E7-90A9-D6DC5CB01DEB}"
 	ProjectSection(SolutionItems) = preProject
 		Teknologi.txt = Teknologi.txt
+		Wtf.txt = Wtf.txt
 	EndProjectSection
 EndProject
 Global
